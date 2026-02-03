@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     overflow: hidden;
-
 }
 
 nav {
@@ -14,7 +13,6 @@ nav {
     flex-direction: column;
     position: relative;
     background-color: #17181A;
-
 }
 
 .one {
@@ -38,7 +36,6 @@ nav {
     position: absolute;
     right: 70%;
     display: flex;
-
 }
 
 img {
