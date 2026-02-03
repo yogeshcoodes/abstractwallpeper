@@ -64,8 +64,8 @@ nav {
     height: 42%;
     background-color: #4A9376;
     cursor: pointer;
-    border-bottom-left-radius: 3rem;
-    border-bottom-right-radius: 3rem;
+    border-bottom-left-radius: 2.5rem;
+    border-bottom-right-radius: 2.5rem;
 }
 
 
