@@ -5,6 +5,50 @@
     overflow: hidden;
 }
 
+* {
+    scroll-behavior: smooth;
+}
+
+input,
+textarea,
+button,
+select,
+span,
+h2,
+a {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+a:focus,
+a:visited,
+a:active {
+    outline: none;
+}
+
+*:focus,
+*:active,
+*:focus-visible {
+    outline: none;
+}
+
+svg,
+svg * {
+    outline: none;
+}
+
+i,
+i:focus,
+i:active {
+    -webkit-tap-highlight-color: transparent;
+    outline: none;
+}
+
+a svg,
+button svg {
+    pointer-events: none;
+}
+
+
 nav {
     width: 100dvw;
     height: 100dvh;
