@@ -22,8 +22,8 @@ nav {
     height: 45%;
     background-color: #4A9376;
     cursor: pointer;
-    border-bottom-left-radius: 1rem;
-    border-bottom-right-radius: 1rem;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
 }
 
 
