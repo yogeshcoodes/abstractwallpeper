@@ -78,12 +78,12 @@ nav {
 
 .png {
     position: absolute;
-    right: 70%;
+    right: 2%;
     display: flex;
 }
 
 img {
-    width: 28rem;
+    width: 24rem;
     height: auto;
 }
 
@@ -96,7 +96,7 @@ img {
 
 
     img {
-        width: 28rem;
+        width: 20rem;
         height: auto;
     }
 }
@@ -110,7 +110,7 @@ img {
 
 
     img {
-        width: 22.8rem;
+        width: 17.8rem;
         height: auto;
     }
 }
