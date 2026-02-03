@@ -57,7 +57,7 @@ img {
     }
 }
 
-@media (max-width: 355px) {
+@media (max-width: 400px) {
     .png {
         position: absolute;
         right: -2%;
